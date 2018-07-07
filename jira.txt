@@ -1,4 +1,4 @@
-"WGET_URL" => "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-7.9.2.tar.gz"
+"WGET_URL" => "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-7.10.0.tar.gz"
 "NEWSPEC_PATH" => "rpmbuild/SPECS"
 "NEWSPEC_FILE" => "jira.spec"
 "APP_DIR" => "/opt/nsauto/nstools/local/share"
